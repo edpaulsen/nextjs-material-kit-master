@@ -1,0 +1,20 @@
+{
+  "devnextjs": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nextjsmaterialkitmas-devnextjs-133333-authRole",
+      "UnauthRoleArn": "arn:aws:iam::846944266931:role/amplify-nextjsmaterialkitmas-devnextjs-133333-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::846944266931:role/amplify-nextjsmaterialkitmas-devnextjs-133333-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-nextjsmaterialkitmas-devnextjs-133333-deployment",
+      "UnauthRoleName": "amplify-nextjsmaterialkitmas-devnextjs-133333-unauthRole",
+      "StackName": "amplify-nextjsmaterialkitmas-devnextjs-133333",
+      "StackId": "arn:aws:cloudformation:us-east-2:846944266931:stack/amplify-nextjsmaterialkitmas-devnextjs-133333/8366db80-81d7-11eb-9fd8-0694293a01d6",
+      "AmplifyAppId": "dxagawt5ijo3w"
+    },
+    "categories": {
+      "auth": {
+        "nextjsmaterialkitmas14466585": {}
+      }
+    }
+  }
+}
